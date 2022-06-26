@@ -1,0 +1,19 @@
+{
+  "name": "glowing-succotash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:whatever": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acywatson/glowing-succotash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acywatson/glowing-succotash/issues"
+  },
+  "homepage": "https://github.com/acywatson/glowing-succotash#readme"
+}
